@@ -1,0 +1,16 @@
+.Result{
+    margin-left: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-style: italic;
+    color: darkmagenta;
+}
+
+
+
+.buttonInfo {
+    display: block;
+    margin: 0 auto;
+    width: max-content;
+  }
+  
